@@ -7,6 +7,7 @@ public static void main(String args[]){
 System.out.println(" Jesus is our Saviour ::");
 System.out.println(" Almighty God ::");
 System.out.println(" Help us LORD!!! ");
+  System.out.println(" Hallelujah ");
 }
 }
 
