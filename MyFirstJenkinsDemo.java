@@ -1,5 +1,5 @@
-import java.io.*
-import java.lang.*
+import java.io.*;
+import java.lang.*;
 public class MyFirstJenkinsDemo{
 
 public static void main(String args[]){
